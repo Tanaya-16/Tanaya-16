@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Tanaya Chirde
+- 👋 Hi, I’m Tanaya Chirde.
 - 👀 I’m interested in Java, DBMS, HTML and CSS.
-- 🌱 I’m currently learning Bachelor's of Engineering in Computer Science.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m excited for the opportunity.
 - 📫 You can reach me using tanayachirde16@gmail.com
 
